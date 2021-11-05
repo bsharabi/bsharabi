@@ -1,7 +1,6 @@
 
 <h3 align="center">Hi there, I'm Barak 👋</h3>
 
-<h3 align="center">Hi, I'm Michael</h3>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=20" />
