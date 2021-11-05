@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=20" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=6&exclude_repo=ML_learning" />
