@@ -1,15 +1,15 @@
 
 <h3 align="center">Hi there, I'm Barak 👋</h3>
 
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=20&card_width=30" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=20&card_width=30&theme=radical" />
 
-</a> -->
+</a>
 
-![Barak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&theme=radical)
-
+<!-- ![Barak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&theme=radical)
+ -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=6&exclude_repo=ML_learning&theme=radical" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=6&exclude_repo=ML_learning&theme=radical" />
 </a>
 
 <!-- [![Barak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
