@@ -12,6 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=6&exclude_repo=ML_learning&theme=radical" />
 </a>
 
+[![Barak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bsharabi/bsharabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
