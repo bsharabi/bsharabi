@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=6&exclude_repo=ML_learning" />
 </a>
 
-
+![Barak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&theme=radical)
 
 
 <!--
