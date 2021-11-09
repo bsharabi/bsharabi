@@ -2,7 +2,7 @@
 <h3 align="center">Hi there, I'm Barak 👋</h3>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="800" align="left" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=20&card_width=30&theme=radical" />
+  <img width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=20&card_width=30&theme=radical" />
 
 </a>
 
