@@ -1,9 +1,11 @@
-<h3 align="center" style="border:none" >Hi there, I'm Barak 👋</h3>
 
 
+   
+Hi there, I'm Barak 👋     | ⚡ Fun fact
+:-------------------------:|:-------------------------:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=28&card_width=30)](https://github.com/anuraghazra/convoychat) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=20&exclude_repo=ML_learning&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=29&card_width=30)](https://github.com/anuraghazra/convoychat)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=20&exclude_repo=ML_learning&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
