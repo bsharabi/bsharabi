@@ -1,5 +1,10 @@
 <h3 align="center">Hi there, I'm Barak 👋</h3>
+<style>
+    .td{
+        border:none
+    }
 
+</style>
 <Table  style=" style=" border: none !important;"" >
 
 <tr>
