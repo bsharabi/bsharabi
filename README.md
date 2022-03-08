@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Barak 👋</h3>
 
-<Table  >
+<Table  border=0 >
 
 <tr>
 <th>
