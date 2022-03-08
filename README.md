@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 <h3 align="left">Tools:</h3>
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
