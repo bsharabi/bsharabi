@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
+</hr>
+</br>
 
 <h3 align="left">Tools:</h3>
 <p align="center">
