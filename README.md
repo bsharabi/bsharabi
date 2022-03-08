@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
 <h3 align="left">Tools:</h3>
 <p align="center">
