@@ -1,24 +1,19 @@
 <h3 align="center">Hi there, I'm Barak 👋</h3>
-<style>
-    .td{
-        border:none
-    }
 
-</style>
 <Table  style=" style=" border: none !important;"" >
 
 <tr>
-<th>
+<td>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=28&card_width=30)](https://github.com/anuraghazra/convoychat)
 
-</th>
+</td>
 
-<th>
+<td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=20&exclude_repo=ML_learning&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
-</th>
+</td>
 </tr>
 </Table> 
 
