@@ -13,7 +13,7 @@ Hi there, I'm Barak 👋     | ⚡ Fun fact
 
 
 
-
+<!-- 
 <div align="center">
 
 <h3 align="left">Tools:</h3>
@@ -31,3 +31,4 @@ Hi there, I'm Barak 👋     | ⚡ Fun fact
 <a href="https://www.wireshark.org/" target="wireshark"> <img src="https://user-images.githubusercontent.com/66886354/147272381-c39e5aa2-3fd9-4a4d-ab9d-4c4c224b29ab.png" alt="wireshark" width="40" height="40"/> 
 <a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
 </div>
+ -->
