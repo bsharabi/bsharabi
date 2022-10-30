@@ -6,7 +6,7 @@ Hi there, I'm Barak 👋     | ⚡ Fun fact
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bsharabi/)](http://www.linkedin.com/in/bsharabi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bsharabi)](https://www.linkedin.com/in/bsharabi)
 
 
 <!-- 
