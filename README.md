@@ -28,3 +28,4 @@ Hi there, I'm Barak 👋     | ⚡ Fun fact
 <a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
 </div>
  -->
+ ![](https://komarev.com/ghpvc/?username=bsharabi&color=2b2139)
