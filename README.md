@@ -14,6 +14,7 @@ Hi there, I'm Barak 👋     | ⚡ Fun fact
 
 <h3 align="left">Tools:</h3>
 <p align="center">
+<a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>
