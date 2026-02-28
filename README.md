@@ -47,26 +47,7 @@ focus:
   - Continuous learning
 fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 ```
-
-<div align="center">
-  <picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
-    width="100%"
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=default&hide_border=true&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
-    width="100%"
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://streak-stats.demolab.com?user=bsharabi&theme=default" />
-</picture>
-
-</div>
-
 </br>
-
 <div align="left">
 
 **Languages**
@@ -88,6 +69,26 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
+<div align="center">
+  <picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=default&hide_border=true&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://streak-stats.demolab.com?user=bsharabi&theme=default" />
+</picture>
+
+</div>
+
+</br>
+
+
 
 
 
