@@ -1,32 +1,140 @@
-
-   
-Hi there, I'm Barak 👋     | ⚡ Fun fact
-:-------------------------:|:-------------------------:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bsharabi&show_icons=true&layout=compact&line_height=28&card_width=30)](https://github.com/anuraghazra/convoychat) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&layout=compact&langs_count=30&exclude_repo=ML_learning&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3> 📫 Contact Me:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bsharabi)](https://www.linkedin.com/in/bsharabi)
-
-
-<!-- 
 <div align="center">
 
-<h3 align="left">Tools:</h3>
-<p align="center">
-<a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
-<a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
-<a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="html"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html" width="40" height="40"/>  </a>
-<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
-<a href="https://www.sqlite.org/index.html" target="SQLite-plain"> <img src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" alt="SQLite-plain" width="40" height="40"/></a>
 
-<a href="https://www.adobe.com/products/photoshop" target="photoshop"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
+<picture>
+  <source 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Barak;Research+%26+Full-Stack+Developer;Problem+Solver+%26+Builder;Always+Learning"
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Barak;Research+%26+Full-Stack+Developer;Problem+Solver+%26+Builder;Always+Learning"
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://streak-stats.demolab.com?user=bsharabi&theme=default" />
+</picture>
 
-<a href="https://ubuntu.com/" target="ubuntu"> <img src="https://user-images.githubusercontent.com/66886354/146211305-39e0ed43-b4d0-4155-b3fb-17eff634a6e8.png" alt="ubuntu" width="40" height="40"/> 
-<a href="https://www.wireshark.org/" target="wireshark"> <img src="https://user-images.githubusercontent.com/66886354/147272381-c39e5aa2-3fd9-4a4d-ab9d-4c4c224b29ab.png" alt="wireshark" width="40" height="40"/> 
-<a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
+
+  <picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=header&fontColor=ffffff"
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header"
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+ <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=header"
+  />
+  </picture>
+
 </div>
- -->
- ![](https://komarev.com/ghpvc/?username=bsharabi&color=2b2139)
+
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Barak Sharabi
+role: R&D / Full-Stack Developer
+location: Israel 🇮🇱
+focus:
+  - Clean architecture & scalable systems
+  - Open-source contributions
+  - Continuous learning
+fun_fact: "I debug with coffee ☕ and stubbornness 💪"
+```
+
+<div align="center">
+  <picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=default&hide_border=true&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://streak-stats.demolab.com?user=bsharabi&theme=default" />
+</picture>
+
+</div>
+
+</br>
+
+<div align="left">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+
+
+<div align="center">
+  <picture>
+  <source 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=bsharabi&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=bsharabi&bg_color=ffffff&color=6E40C9&line=6E40C9&point=6E40C9&area=true&hide_border=true"
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsharabi&bg_color=ffffff&color=6E40C9&line=6E40C9&point=6E40C9&area=true&hide_border=true" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsharabi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsharabi)
+
+</div>
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bsharabi&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+<picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" 
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" 
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+ <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" 
+  />
+  </picture>
