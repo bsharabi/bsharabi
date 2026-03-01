@@ -181,7 +181,7 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 
 <div align="center">
  
-
+<div align="center">
 <picture>
   <source 
     srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bsharabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&text_color=6E40C9&title_color=6E40C9&icon_color=6E40C9"
@@ -208,6 +208,7 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
   />
   <img alt="Bsharabi's Top Languages" height="192px"  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=36BCF7FF&text_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff"/>
 </picture>
+</div>
  <picture>
   <source 
     srcset="https://streak-stats.demolab.com?user=bsharabi&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
