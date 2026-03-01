@@ -47,12 +47,52 @@
 
 </div>
 <div align="center">
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/bsharabi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bsharabi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/bsharabi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bsharabi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+  <picture>
+    <source 
+      srcset="https://komarev.com/ghpvc/?username=bsharabi&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS"
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://komarev.com/ghpvc/?username=bsharabi&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS"
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://komarev.com/ghpvc/?username=bsharabi&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" 
+      alt="Profile Views" 
+    />
+  </picture>
+  <picture>
+   <source 
+      srcset="https://custom-icon-badges.demolab.com/github/stars/bsharabi?color=55660C&style=for-the-badge&labelColor=485207&logo=star"
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://custom-icon-badges.demolab.com/github/stars/bsharabi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://custom-icon-badges.demolab.com/github/stars/bsharabi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+      alt="total stars" title="Total stars on GitHub"
+    />
+  </picture>
+  <picture>
+
+   <source 
+      srcset="https://custom-icon-badges.demolab.com/github/followers/bsharabi?color=2321D3&labelColor=1111BA&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+      media="(prefers-color-scheme: dark)" 
+    />  
+    <source 
+      srcset="https://custom-icon-badges.demolab.com/github/followers/bsharabi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://custom-icon-badges.demolab.com/github/followers/bsharabi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+     alt="Followers" 
+      title="Follow me on Github" 
+    />
+  </picture>
+
 </div>
 
 ## 🧑‍💻 About Me
@@ -177,7 +217,7 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 
 <br/>
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsharabi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsharabi)
@@ -186,19 +226,6 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 
 
 <div align="center">
-
- <picture>
-  <source 
-    srcset="https://komarev.com/ghpvc/?username=bsharabi&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS"
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://komarev.com/ghpvc/?username=bsharabi&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS"
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsharabi&bg_color=ffffff&color=36BCF7FF&line=36BCF7FF&point=36BCF7FF&area=true&hide_border=true" />
-</picture>
-
 
 <picture>
   <source 
