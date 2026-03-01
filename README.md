@@ -193,7 +193,7 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
     alt="Bsharabi's Github Stats"
     media="(prefers-color-scheme: light)" 
   />
-  <img alt="Bsharabi's Github Stats" height="200px"   src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bsharabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=fff&title_color=36BCF7FF&icon_color=36BCF7FF" />
+  <img alt="Bsharabi's Github Stats" height="196px"   src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bsharabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=fff&title_color=36BCF7FF&icon_color=36BCF7FF" />
 </picture>
 <picture>
   <source 
@@ -206,7 +206,7 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
    alt="Bsharabi's Top Languages" 
     media="(prefers-color-scheme: light)" 
   />
-  <img alt="Bsharabi's Top Languages" height="200px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=36BCF7FF&text_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff"/>
+  <img alt="Bsharabi's Top Languages" height="196px"  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=36BCF7FF&text_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff"/>
 </picture>
  <picture>
   <source 
