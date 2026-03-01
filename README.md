@@ -108,24 +108,7 @@ focus:
 fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 ```
 
-<div align="center">
-  <picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
-    width="100%"
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=default&hide_border=true&ring=36BCF7FF&fire=36BCF7FF&currStreakLabel=36BCF7FF"
-    width="100%"
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://streak-stats.demolab.com?user=bsharabi&theme=default" />
-</picture>
 
-</div>
-
-</br>
 
 <div align="left">
 
@@ -196,9 +179,49 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
 
 </div>
 
-
-
 <div align="center">
+ 
+
+<picture>
+  <source 
+    srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bsharabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&text_color=6E40C9&title_color=6E40C9&icon_color=6E40C9"
+    alt="Bsharabi's Github Stats"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bsharabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=fff&text_color=0&title_color=36BCF7FF&icon_color=36BCF7FF"
+    alt="Bsharabi's Github Stats"
+    media="(prefers-color-scheme: light)" 
+  />
+  <img alt="Bsharabi's Github Stats" height="200px"   src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bsharabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=fff&title_color=36BCF7FF&icon_color=36BCF7FF" />
+</picture>
+<picture>
+  <source 
+    srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=6E40C9&text_color=F8D866&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+    alt="Bsharabi's Top Languages" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=36BCF7FF&text_color=0&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff"
+   alt="Bsharabi's Top Languages" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img alt="Bsharabi's Top Languages" height="200px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bsharabi&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=36BCF7FF&text_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff"/>
+</picture>
+ <picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"
+    width="100%"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bsharabi&theme=default&hide_border=true&ring=36BCF7FF&fire=36BCF7FF&currStreakLabel=36BCF7FF"
+    width="100%"
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://streak-stats.demolab.com?user=bsharabi&theme=default" />
+</picture>
+
   <picture>
   <source 
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=bsharabi&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true"
@@ -242,3 +265,4 @@ fun_fact: "I debug with coffee ☕ and stubbornness 💪"
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" 
   />
   </picture>
+</div>
